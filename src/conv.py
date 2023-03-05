@@ -1,6 +1,6 @@
 """conv.py
 ~~~~~~~~~~
-
+xx
 Code for many of the experiments involving convolutional networks in
 Chapter 6 of the book 'Neural Networks and Deep Learning', by Michael
 Nielsen.  The code essentially duplicates (and parallels) what is in
